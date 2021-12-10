@@ -1,6 +1,6 @@
 # JM0150-M-6 Data Mining - Assignment 3
 
-GitHub Project page of group 9 for assignment 2 of the course Data Engineering
+GitHub Project page of group 9 for assignment 3 of the course Data Mining.
 <br />
 <br />
 Names: <br />
