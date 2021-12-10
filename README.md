@@ -12,4 +12,4 @@ Virgil Sowirono <br />
 
 ## Overview
 
-Deliverables are a Jupyter Notebook with our code and a pdf version. Additionally all the models that were used, were saved and stored inside the folder "Assignment 3".
+Deliverables are a Jupyter Notebook and a pdf version. Additionally all the models that were used, were saved and stored inside the folder "Assignment 3".
